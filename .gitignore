@@ -1,0 +1,5 @@
+.env
+*.gexf
+*.pkl
+*.log
+*.json
